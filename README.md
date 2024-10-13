@@ -56,7 +56,7 @@ Este projeto usas as seguintes tecnologias e linguagens de programação
 Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
 
 ```bash
-https://github.com/pedrohenrique3dk/SQL_MySQL/tree/main/03%20-%20PHP/3%20-%20Projeto-Final%20PHP
+https://github.com/johnerik63/SQL_MySQL/tree/main/03%20-%20PHP/3%20-%20Projeto-Final%20PHP
 ```
 
 >[!TIP]
@@ -89,7 +89,7 @@ ___
 Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
 
 ```bash
-https://github.com/pedrohenrique3dk/SQL_MySQL
+https://github.com/johnerik63/SQL_MySQL
 ```
 
 </div>
@@ -103,7 +103,7 @@ https://github.com/pedrohenrique3dk/SQL_MySQL
 
 ___
 
-<a href="https://github.com/pedrohenrique3dk/SQL_MySQL/tree/main/03%20-%20PHP/3%20-%20Projeto-Final%20PHP"><img src="https://github.com/user-attachments/assets/29fd0f0b-d4fb-455e-aadb-9e3e25e69672" alt = "codigo" width="400" height="250" max-width = 100%></a> &nbsp; &nbsp;<a href="https://youtu.be/ahi5o1eY6-A"><img src="https://github.com/user-attachments/assets/471f1a44-4aed-47ca-bb75-597c271006f5" alt = "codigo" width="400" height="250" max-width=100%></a>
+<a href="https://github.com/johnerik63/SQL_MySQL/tree/main/03%20-%20PHP/3%20-%20Projeto-Final%20PHP"><img src="https://github.com/user-attachments/assets/29fd0f0b-d4fb-455e-aadb-9e3e25e69672" alt = "codigo" width="400" height="250" max-width = 100%></a> &nbsp; &nbsp;<a href="https://youtu.be/ahi5o1eY6-A"><img src="https://github.com/user-attachments/assets/471f1a44-4aed-47ca-bb75-597c271006f5" alt = "codigo" width="400" height="250" max-width=100%></a>
 
 ___
 
@@ -118,3 +118,13 @@ ___
 <img src="https://github.com/user-attachments/assets/1defc74e-4da5-4aa4-8fe6-7eb7988fea0e" alt = "codigo" width="400" height="250" max-width = 100%>&nbsp; &nbsp;<img src="https://github.com/user-attachments/assets/3754c5c6-9e3d-45f2-98a0-69cf6515c60a" alt = "codigo" width="400" height="250" max-width=100%>&nbsp;
 
 <img src="https://github.com/user-attachments/assets/383400b5-22c8-4284-b30e-5d84450357e2" alt = "codigo" width="400" height="250" max-width = 100%>&nbsp; &nbsp;<img src="https://github.com/user-attachments/assets/b1b4321e-d230-46cb-b5cd-8bc24f991848" alt = "codigo" width="400" height="250" max-width=100%>
+
+
+</div>
+
+## Contatos 📞
+
+ 
+  [![My Skills](https://skillicons.dev/icons?i=gmail&perline=3)](johnerik63@gmail.com) [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/johnerik63/) [![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://github.com/johnerik63)
+  
+
