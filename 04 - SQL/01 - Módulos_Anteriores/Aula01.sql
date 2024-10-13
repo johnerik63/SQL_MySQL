@@ -1,0 +1,4 @@
+CREATE DATABASE computador;
+SHOW DATABASES;
+DROP DATABASE computador;
+
